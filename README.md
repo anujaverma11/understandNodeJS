@@ -7,7 +7,7 @@
 ##### 4. Conceptual Aside: The Command Line Interface
 ##### 5. Command Line References
 
-##### Section: 2  V8: The Javascript Engine
+###  Section: 2  V8: The Javascript Engine
 ##### 6. Conceptual Aside: Processors, Machine Language, and C++
   V8 javascript engine is the thing at the heart of Node JS. V8 and Node is written in C++. A JS Engine is a program which converts JS code into something the computer processor can understand.
 
@@ -17,8 +17,9 @@
 ##### 8. V8 - Under the Hood
   V8 is Google's open source JavaScript Engine. V8 can run standalone. V8 has hooks that can be used in C++ program.(#include <include/v8.h>)
 ##### 9. Adding Features to Javascript
+Node.js is a C++ program with V8 embedded, that has added a wealth of great features that has made it to be suitable to be a server technology.
 
-###### Section: 3  The Node Core
+###  Section: 3  The Node Core
 ##### 10. Conceptual Aside: Servers and Clients
 ##### 11. What Does Javascript Need to Manage a Server?
 ##### 12. The C++ Core
@@ -27,8 +28,7 @@
 ##### 15. Let's Install and Run Some Javascript in Node
 C6 Lets Run Some Javascript
 
-
-Section: 4
+### Section: 4
 0 / 15
 Modules, Exports, and Require
 ##### 16. Conceptual Aside: Modules
@@ -71,7 +71,7 @@ D13 Requiring Core Modules
 ##### 29. Modules and ES6
 02:36
 ##### 30. Web Server Checklist
-01:21
+01:21###
 Section: 5
 0 / 11
 Events and the Event Emitter
@@ -106,7 +106,7 @@ E9 Inheriting From Event Emitter Part 2
 E10 ES6 Classes
 ##### 41. Inheriting From the Event Emitter - Part 3
 06:00
-E11 Inheriting From Event Emitter Part 3
+E11 Inheriting From Event Emitter Part 3###
 Section: 6
 0 / 13
 Asynchronous Code, libuv, The Event Loop, Streams, Files, and more…
@@ -141,7 +141,7 @@ F9 Streams
 15:51
 F11 Pipes
 ##### 54. Web Server Checklist
-02:37
+02:37###
 Section: 7
 0 / 11
 HTTP and being a Web Server
@@ -171,7 +171,7 @@ G9 Outputting JSON
 11:02
 G10 Routing
 ##### 65. Web Server Checklist
-02:24
+02:24###
 Section: 8
 0 / 7
 NPM: the Node Package Manager
@@ -189,7 +189,7 @@ H4 Init Nodemon Packagejson
 15:17
 H5 Init Nodemon Packagejson Part2
 ##### 72. Using Other People's Code
-01:43
+01:43###
 Section: 9
 0 / 7
 Express
@@ -213,7 +213,7 @@ I5 Querystrings And Post
 I6 RES Tand JSON
 ##### 79. Structuring an App
 13:45
-I7 Structuring Our App
+I7 Structuring Our App###
 Section: 10
 0 / 5
 Javascript, JSON, and Databases
@@ -228,7 +228,7 @@ J2 Node And My SQL
 10:50
 J4 Mongo DB
 ##### 84. Web Server Checklist
-01:07
+01:07###
 Section: 11
 0 / 6
 The MEAN stack
@@ -246,7 +246,7 @@ K4 Angular JS Managing Client
 03:06
 ##### 90. Working with The Full Stack (and being a Full Stack Developer) - Part 1
 11:59
-K5_FullStackDeveloper_Part1.zip
+K5_FullStackDeveloper_Part1.zip###
 Section: 12
 0 / 8
 Let's Build an App! (in record time)
