@@ -9,11 +9,13 @@
 
 ##### Section: 2  V8: The Javascript Engine
 ##### 6. Conceptual Aside: Processors, Machine Language, and C++
-  V8 javascript engine is the thing at the heart of Node JS. V8 and Node is written in C++.
+  V8 javascript engine is the thing at the heart of Node JS. V8 and Node is written in C++. A JS Engine is a program which converts JS code into something the computer processor can understand.
 
 ##### 7. Javascript Aside: Javascript Engines and The ECMAScript Specification
+  ECMAScript is the standard, javascript is based on. The engine should follow ECMA standards on how the language should work and what features it should have.
 
-##### 8. V8 Under the Hood
+##### 8. V8 - Under the Hood
+  V8 is Google's open source JavaScript Engine. V8 can run standalone. V8 has hooks that can be used in C++ program.(#include <include/v8.h>)
 ##### 9. Adding Features to Javascript
 
 ###### Section: 3  The Node Core
