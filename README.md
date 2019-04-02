@@ -22,6 +22,9 @@ Node.js is a C++ program with V8 embedded, that has added a wealth of great feat
 ###  Section: 3  The Node Core
 ##### 10. Conceptual Aside: Servers and Clients
 ##### 11. What Does Javascript Need to Manage a Server?
+- Better ways to organize our code into reusable pieces
+- Ways to deal with files
+- Ways to deal with databases
 ##### 12. The C++ Core
 ##### 13. The Javascript Core
 ##### 14. Downloading Lecture Source Code
