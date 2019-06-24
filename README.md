@@ -2,9 +2,13 @@
 
 ### Section: 1  Introduction and Setup
 ##### 1. Introduction and the Goal of this Course
+ Leran and understand, dont imitate.
 ##### 2. Big Words and NodeJS
 ##### 3. Watching this Course in High Definition
 ##### 4. Conceptual Aside: The Command Line Interface
+ An idea or concept that is needed to learn to understnad node.js. 
+ BIG WORD: Command line interface: A utility to type commands to your computer rather than clicking.
+
 ##### 5. Command Line References
 
 ###  Section: 2  V8: The Javascript Engine
