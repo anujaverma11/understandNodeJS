@@ -1,24 +1,26 @@
 ## understandNodeJS
-
+Node.js notes
 ### Section: 1  Introduction and Setup
-##### 1. Introduction and the Goal of this Course
+#### 1. Introduction and the Goal of this Course
  Leran and understand, dont imitate.
-##### 2. Big Words and NodeJS
-##### 3. Watching this Course in High Definition
-##### 4. Conceptual Aside: The Command Line Interface
+#### 2. Big Words and NodeJS
+#### 3. Watching this Course in High Definition
+#### 4. Conceptual Aside: The Command Line Interface
  An idea or concept that is needed to learn to understnad node.js. 
- BIG WORD: Command line interface: A utility to type commands to your computer rather than clicking.
+ - BIG WORD: Command line interface: A utility to type commands to your computer rather than clicking.
 
-##### 5. Command Line References
+#### 5. Command Line References
 
 ###  Section: 2  V8: The Javascript Engine
-##### 6. Conceptual Aside: Processors, Machine Language, and C++
-  V8 javascript engine is the thing at the heart of Node JS. V8 and Node is written in C++. A JS Engine is a program which converts JS code into something the computer processor can understand.
+#### 6. Conceptual Aside: Processors, Machine Language, and C++
+ Node is written in JS.
+  V8 javascript engine is the thing at the heart of Node JS. V8 and Node is written in C++. A JS Engine is a program which converts JS code into something the computer processor can understand. 
 
-##### 7. Javascript Aside: Javascript Engines and The ECMAScript Specification
-  ECMAScript is the standard, javascript is based on. The engine should follow ECMA standards on how the language should work and what features it should have.
+#### 7. Javascript Aside: Javascript Engines and The ECMAScript Specification
+  BIG WORD: ECMAScript is the standard, javascript is based on. The engine should follow ECMA standards on how the language should work and what features it should have.
+  A JS engine : A program that converts javascriot code into something the computer processor can understand. - And it should folloe the ECMAScript standard on how the language should work and what features it should have.
 
-##### 8. V8 - Under the Hood
+#### 8. V8 - Under the Hood
   V8 is Google's open source JavaScript Engine. V8 can run standalone. V8 has hooks that can be used in C++ program.(#include <include/v8.h>)
 ##### 9. Adding Features to Javascript
 Node.js is a C++ program with V8 embedded, that has added a wealth of great features that has made it to be suitable to be a server technology.
